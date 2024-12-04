@@ -11,7 +11,7 @@
     ],
 
     "public": true,
-    "buildCommand": "vite build",
+    "buildCommand": "vite build apt-get update && apt-get install -y libssl-dev",
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
