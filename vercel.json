@@ -15,7 +15,7 @@
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://perpus-pasca-undip.vercel.app/",
         "APP_KEY": "base64:oO+Cwts/UY0033r+bLxcbD7pnNWIdqI1RPGl1dFSzcA",
         "APP_CONFIG_CACHE": "/tmp/config.php",
